@@ -1,0 +1,27 @@
+Test Case nr. 6!
+Current optimum: 54503.0
+MemeticAlgorithm:
+
+Experiment nr. 1: Estimated optimum: 53250.0 -- Optimum: 54503.0. Variance: 2.2989560207694937%
+Experiment nr. 2: Estimated optimum: 52632.0 -- Optimum: 54503.0. Variance: 3.4328385593453525%
+Experiment nr. 3: Estimated optimum: 53180.0 -- Optimum: 54503.0. Variance: 2.427389318019191%
+Experiment nr. 4: Estimated optimum: 53086.0 -- Optimum: 54503.0. Variance: 2.59985688861164%
+Experiment nr. 5: Estimated optimum: 53138.0 -- Optimum: 54503.0. Variance: 2.5044492963690046%
+Experiment nr. 6: Estimated optimum: 52925.0 -- Optimum: 54503.0. Variance: 2.89525347228593%
+Experiment nr. 7: Estimated optimum: 52402.0 -- Optimum: 54503.0. Variance: 3.8548336788800652%
+Experiment nr. 8: Estimated optimum: 52963.0 -- Optimum: 54503.0. Variance: 2.8255325394932362%
+Experiment nr. 9: Estimated optimum: 53343.0 -- Optimum: 54503.0. Variance: 2.128323211566341%
+Experiment nr. 10: Estimated optimum: 53312.0 -- Optimum: 54503.0. Variance: 2.1852008146340585%
+
+Classic Genetic Algorithm:
+
+Experiment nr. 1: Estimated optimum:40178.0 -- Optimum: 54503.0. Variance: 26.282956901454966%
+Experiment nr. 2: Estimated optimum:41177.0 -- Optimum: 54503.0. Variance: 24.450030273562927%
+Experiment nr. 3: Estimated optimum:39210.0 -- Optimum: 54503.0. Variance: 28.05900592627929%
+Experiment nr. 4: Estimated optimum:41242.0 -- Optimum: 54503.0. Variance: 24.330770783259638%
+Experiment nr. 5: Estimated optimum:38298.0 -- Optimum: 54503.0. Variance: 29.732308313303857%
+Experiment nr. 6: Estimated optimum:42177.0 -- Optimum: 54503.0. Variance: 22.615268884281605%
+Experiment nr. 7: Estimated optimum:41413.0 -- Optimum: 54503.0. Variance: 24.017026585692534%
+Experiment nr. 8: Estimated optimum:40200.0 -- Optimum: 54503.0. Variance: 26.242592150890776%
+Experiment nr. 9: Estimated optimum:39221.0 -- Optimum: 54503.0. Variance: 28.038823550997193%
+Experiment nr. 10: Estimated optimum:37265.0 -- Optimum: 54503.0. Variance: 31.62761682843146%

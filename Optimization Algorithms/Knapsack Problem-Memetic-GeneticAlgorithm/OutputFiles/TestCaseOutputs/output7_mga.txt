@@ -1,0 +1,17 @@
+---- Test CGA ----
+    optimum: 276457.0
+    maxIteration: 500
+    populationSize: 300
+    probMutation: 0.2
+
+Run no. 1: Fitness: 254561.0 -- Variance: 7.920219057574962%
+Run no. 2: Fitness: 253777.0 -- Variance: 8.203807463728541%
+Run no. 3: Fitness: 249592.0 -- Variance: 9.71760526953559%
+Run no. 4: Fitness: 255365.0 -- Variance: 7.62939625330522%
+Run no. 5: Fitness: 252133.0 -- Variance: 8.798474988877114%
+
+---- Conclusion ----
+    Mean Fitness: 253085.6
+    Mean Variance: 8.453900606604286
+    Runtime: PT3H27M3.3887304S
+

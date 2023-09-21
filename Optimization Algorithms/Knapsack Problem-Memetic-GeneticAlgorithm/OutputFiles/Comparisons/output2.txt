@@ -1,0 +1,27 @@
+Test Case nr. 2!
+Current optimum: 1024.0
+MemeticAlgorithm:
+
+Experiment nr. 1: Estimated optimum: 1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 2: Estimated optimum: 1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 3: Estimated optimum: 1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 4: Estimated optimum: 1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 5: Estimated optimum: 1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 6: Estimated optimum: 1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 7: Estimated optimum: 1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 8: Estimated optimum: 1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 9: Estimated optimum: 1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 10: Estimated optimum: 1024.0 -- Optimum: 1024.0. Variance: 0.0%
+
+Classic Genetic Algorithm:
+
+Experiment nr. 1: Estimated optimum:1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 2: Estimated optimum:1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 3: Estimated optimum:1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 4: Estimated optimum:1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 5: Estimated optimum:1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 6: Estimated optimum:1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 7: Estimated optimum:1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 8: Estimated optimum:1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 9: Estimated optimum:1024.0 -- Optimum: 1024.0. Variance: 0.0%
+Experiment nr. 10: Estimated optimum:1024.0 -- Optimum: 1024.0. Variance: 0.0%

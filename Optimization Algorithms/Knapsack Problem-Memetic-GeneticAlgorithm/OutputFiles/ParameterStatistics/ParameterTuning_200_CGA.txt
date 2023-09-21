@@ -1,0 +1,1056 @@
+
+------ ParameterSet nr. 1 ------
+  Population Size: 200
+  Max Iteration : 7000
+  Probability of mutation: 0.1
+
+      Run nr. 1: FitnessValue = 8759.0
+      Run nr. 2: FitnessValue = 8661.0
+      Run nr. 3: FitnessValue = 8661.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 8575.0
+      Run nr. 6: FitnessValue = 8661.0
+      Run nr. 7: FitnessValue = 8477.0
+      Run nr. 8: FitnessValue = 8544.0
+      Run nr. 9: FitnessValue = 8759.0
+      Run nr. 10: FitnessValue = 8661.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8690.5
+(*) Average variance: 0.049907073357384944
+
+
+
+------ ParameterSet nr. 2 ------
+  Population Size: 200
+  Max Iteration : 7000
+  Probability of mutation: 0.15
+
+      Run nr. 1: FitnessValue = 8759.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 8342.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 8541.0
+      Run nr. 6: FitnessValue = 8929.0
+      Run nr. 7: FitnessValue = 7584.0
+      Run nr. 8: FitnessValue = 8759.0
+      Run nr. 9: FitnessValue = 8544.0
+      Run nr. 10: FitnessValue = 8234.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8598.599999999999
+(*) Average variance: 0.05995408330600197
+
+
+
+------ ParameterSet nr. 3 ------
+  Population Size: 200
+  Max Iteration : 7000
+  Probability of mutation: 0.2
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 8759.0
+      Run nr. 4: FitnessValue = 8544.0
+      Run nr. 5: FitnessValue = 8940.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 8759.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8988.4
+(*) Average variance: 0.017339018257352144
+
+
+
+------ ParameterSet nr. 4 ------
+  Population Size: 200
+  Max Iteration : 7000
+  Probability of mutation: 0.3
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 8544.0
+      Run nr. 3: FitnessValue = 8730.0
+      Run nr. 4: FitnessValue = 8929.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 8544.0
+      Run nr. 7: FitnessValue = 8759.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 8759.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8885.3
+(*) Average variance: 0.02861047337925003
+
+
+
+------ ParameterSet nr. 5 ------
+  Population Size: 200
+  Max Iteration : 10000
+  Probability of mutation: 0.1
+
+      Run nr. 1: FitnessValue = 8382.0
+      Run nr. 2: FitnessValue = 8544.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 8759.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 8759.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8932.599999999999
+(*) Average variance: 0.02343937903137642
+
+
+
+------ ParameterSet nr. 6 ------
+  Population Size: 200
+  Max Iteration : 10000
+  Probability of mutation: 0.15
+
+      Run nr. 1: FitnessValue = 8929.0
+      Run nr. 2: FitnessValue = 8511.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 8759.0
+      Run nr. 6: FitnessValue = 8544.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 7967.0
+      Run nr. 9: FitnessValue = 8940.0
+      Run nr. 10: FitnessValue = 8759.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8784.999999999998
+(*) Average variance: 0.039575817207827706
+
+
+
+------ ParameterSet nr. 7 ------
+  Population Size: 200
+  Max Iteration : 10000
+  Probability of mutation: 0.2
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 8730.0
+      Run nr. 3: FitnessValue = 8544.0
+      Run nr. 4: FitnessValue = 8544.0
+      Run nr. 5: FitnessValue = 8940.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 8544.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 8940.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8883.0
+(*) Average variance: 0.028861921941620208
+
+
+
+------ ParameterSet nr. 8 ------
+  Population Size: 200
+  Max Iteration : 10000
+  Probability of mutation: 0.3
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 8661.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 8759.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 7569.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8901.8
+(*) Average variance: 0.026806603257898774
+
+
+
+------ ParameterSet nr. 9 ------
+  Population Size: 200
+  Max Iteration : 15000
+  Probability of mutation: 0.1
+
+      Run nr. 1: FitnessValue = 8661.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 8044.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 8759.0
+      Run nr. 8: FitnessValue = 8557.0
+      Run nr. 9: FitnessValue = 8759.0
+      Run nr. 10: FitnessValue = 8759.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8812.699999999999
+(*) Average variance: 0.0365475019131956
+
+
+
+------ ParameterSet nr. 10 ------
+  Population Size: 200
+  Max Iteration : 15000
+  Probability of mutation: 0.15
+
+      Run nr. 1: FitnessValue = 8544.0
+      Run nr. 2: FitnessValue = 8911.0
+      Run nr. 3: FitnessValue = 8759.0
+      Run nr. 4: FitnessValue = 8602.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 8544.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 8544.0
+      Run nr. 10: FitnessValue = 8759.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8810.4
+(*) Average variance: 0.03679895047556576
+
+
+
+------ ParameterSet nr. 11 ------
+  Population Size: 200
+  Max Iteration : 15000
+  Probability of mutation: 0.2
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 8506.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 8759.0
+      Run nr. 5: FitnessValue = 8759.0
+      Run nr. 6: FitnessValue = 8730.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 8759.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8924.8
+(*) Average variance: 0.024292117634197016
+
+
+
+------ ParameterSet nr. 12 ------
+  Population Size: 200
+  Max Iteration : 15000
+  Probability of mutation: 0.3
+
+      Run nr. 1: FitnessValue = 8759.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 8929.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 8759.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 8929.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 8730.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8984.099999999999
+(*) Average variance: 0.017809117743522476
+
+
+
+------ ParameterSet nr. 13 ------
+  Population Size: 200
+  Max Iteration : 20000
+  Probability of mutation: 0.1
+
+      Run nr. 1: FitnessValue = 8759.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 8759.0
+      Run nr. 5: FitnessValue = 8911.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 8759.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 8929.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8985.199999999999
+(*) Average variance: 0.017688859735432393
+
+
+
+------ ParameterSet nr. 14 ------
+  Population Size: 200
+  Max Iteration : 20000
+  Probability of mutation: 0.15
+
+      Run nr. 1: FitnessValue = 8544.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 8940.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 8940.0
+      Run nr. 7: FitnessValue = 8759.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9006.5
+(*) Average variance: 0.015360227396960758
+
+
+
+------ ParameterSet nr. 15 ------
+  Population Size: 200
+  Max Iteration : 20000
+  Probability of mutation: 0.2
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 8940.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 8911.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9102.7
+(*) Average variance: 0.004843117962173394
+
+
+
+------ ParameterSet nr. 16 ------
+  Population Size: 200
+  Max Iteration : 20000
+  Probability of mutation: 0.3
+
+      Run nr. 1: FitnessValue = 8929.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 8544.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9064.9
+(*) Average variance: 0.008975620421996278
+
+
+
+------ ParameterSet nr. 17 ------
+  Population Size: 300
+  Max Iteration : 7000
+  Probability of mutation: 0.1
+
+      Run nr. 1: FitnessValue = 8759.0
+      Run nr. 2: FitnessValue = 8759.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 8759.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 7584.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8874.3
+(*) Average variance: 0.02981305346015089
+
+
+
+------ ParameterSet nr. 18 ------
+  Population Size: 300
+  Max Iteration : 7000
+  Probability of mutation: 0.15
+
+      Run nr. 1: FitnessValue = 8730.0
+      Run nr. 2: FitnessValue = 8759.0
+      Run nr. 3: FitnessValue = 8759.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 8759.0
+      Run nr. 8: FitnessValue = 8544.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 8730.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8886.899999999998
+(*) Average variance: 0.028435552640209926
+
+
+
+------ ParameterSet nr. 19 ------
+  Population Size: 300
+  Max Iteration : 7000
+  Probability of mutation: 0.2
+
+      Run nr. 1: FitnessValue = 8234.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 8940.0
+      Run nr. 4: FitnessValue = 8544.0
+      Run nr. 5: FitnessValue = 8929.0
+      Run nr. 6: FitnessValue = 8759.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 8929.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 8759.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8853.499999999998
+(*) Average variance: 0.03208702306767246
+
+
+
+------ ParameterSet nr. 20 ------
+  Population Size: 300
+  Max Iteration : 7000
+  Probability of mutation: 0.3
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 8929.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 7569.0
+      Run nr. 8: FitnessValue = 8759.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 8929.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8906.8
+(*) Average variance: 0.02625997594839838
+
+
+
+------ ParameterSet nr. 21 ------
+  Population Size: 300
+  Max Iteration : 10000
+  Probability of mutation: 0.1
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 8759.0
+      Run nr. 3: FitnessValue = 8759.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 8759.0
+      Run nr. 10: FitnessValue = 8759.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8991.8
+(*) Average variance: 0.016967311686891896
+
+
+
+------ ParameterSet nr. 22 ------
+  Population Size: 300
+  Max Iteration : 10000
+  Probability of mutation: 0.15
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 8759.0
+      Run nr. 4: FitnessValue = 8759.0
+      Run nr. 5: FitnessValue = 8911.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 8759.0
+      Run nr. 9: FitnessValue = 8730.0
+      Run nr. 10: FitnessValue = 8544.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8905.0
+(*) Average variance: 0.02645676177981854
+
+
+
+------ ParameterSet nr. 23 ------
+  Population Size: 300
+  Max Iteration : 10000
+  Probability of mutation: 0.2
+
+      Run nr. 1: FitnessValue = 8759.0
+      Run nr. 2: FitnessValue = 8911.0
+      Run nr. 3: FitnessValue = 8759.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 8759.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 8759.0
+      Run nr. 10: FitnessValue = 8730.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8926.5
+(*) Average variance: 0.024106264348966903
+
+
+
+------ ParameterSet nr. 24 ------
+  Population Size: 300
+  Max Iteration : 10000
+  Probability of mutation: 0.3
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 8911.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 8759.0
+      Run nr. 8: FitnessValue = 8990.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9068.9
+(*) Average variance: 0.008538318574395987
+
+
+
+------ ParameterSet nr. 25 ------
+  Population Size: 300
+  Max Iteration : 15000
+  Probability of mutation: 0.1
+
+      Run nr. 1: FitnessValue = 8759.0
+      Run nr. 2: FitnessValue = 8759.0
+      Run nr. 3: FitnessValue = 8575.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 8911.0
+      Run nr. 7: FitnessValue = 8544.0
+      Run nr. 8: FitnessValue = 8759.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8889.5
+(*) Average variance: 0.02815130643926972
+
+
+
+------ ParameterSet nr. 26 ------
+  Population Size: 300
+  Max Iteration : 15000
+  Probability of mutation: 0.15
+
+      Run nr. 1: FitnessValue = 8759.0
+      Run nr. 2: FitnessValue = 8759.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 8759.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9030.599999999999
+(*) Average variance: 0.012725483765168922
+
+
+
+------ ParameterSet nr. 27 ------
+  Population Size: 300
+  Max Iteration : 15000
+  Probability of mutation: 0.2
+
+      Run nr. 1: FitnessValue = 8911.0
+      Run nr. 2: FitnessValue = 8929.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 8940.0
+      Run nr. 5: FitnessValue = 8929.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9059.099999999999
+(*) Average variance: 0.009609708101016723
+
+
+
+------ ParameterSet nr. 28 ------
+  Population Size: 300
+  Max Iteration : 15000
+  Probability of mutation: 0.3
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 8940.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9126.300000000001
+(*) Average variance: 0.0022630370613315855
+
+
+
+------ ParameterSet nr. 29 ------
+  Population Size: 300
+  Max Iteration : 20000
+  Probability of mutation: 0.1
+
+      Run nr. 1: FitnessValue = 8759.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 8759.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9069.4
+(*) Average variance: 0.008483655843445948
+
+
+
+------ ParameterSet nr. 30 ------
+  Population Size: 300
+  Max Iteration : 20000
+  Probability of mutation: 0.15
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 8940.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9126.3
+(*) Average variance: 0.0022630370613315855
+
+
+
+------ ParameterSet nr. 31 ------
+  Population Size: 300
+  Max Iteration : 20000
+  Probability of mutation: 0.2
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 8911.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 8929.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 8929.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9079.8
+(*) Average variance: 0.007346671039685138
+
+
+
+------ ParameterSet nr. 32 ------
+  Population Size: 300
+  Max Iteration : 20000
+  Probability of mutation: 0.3
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 8759.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 8929.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9086.4
+(*) Average variance: 0.006625122991144639
+
+
+
+------ ParameterSet nr. 33 ------
+  Population Size: 500
+  Max Iteration : 7000
+  Probability of mutation: 0.1
+
+      Run nr. 1: FitnessValue = 8661.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 8759.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 8759.0
+      Run nr. 6: FitnessValue = 8900.0
+      Run nr. 7: FitnessValue = 8759.0
+      Run nr. 8: FitnessValue = 8759.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 8918.5
+(*) Average variance: 0.0249808680441675
+
+
+
+------ ParameterSet nr. 34 ------
+  Population Size: 500
+  Max Iteration : 7000
+  Probability of mutation: 0.15
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 8224.0
+      Run nr. 6: FitnessValue = 8759.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9015.9
+(*) Average variance: 0.014332568055100038
+
+
+
+------ ParameterSet nr. 35 ------
+  Population Size: 500
+  Max Iteration : 7000
+  Probability of mutation: 0.2
+
+      Run nr. 1: FitnessValue = 8759.0
+      Run nr. 2: FitnessValue = 8940.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 8929.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9065.699999999999
+(*) Average variance: 0.008888160052476224
+
+
+
+------ ParameterSet nr. 36 ------
+  Population Size: 500
+  Max Iteration : 7000
+  Probability of mutation: 0.3
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 8759.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 8929.0
+      Run nr. 7: FitnessValue = 8929.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9064.599999999999
+(*) Average variance: 0.009008418060566304
+
+
+
+------ ParameterSet nr. 37 ------
+  Population Size: 500
+  Max Iteration : 10000
+  Probability of mutation: 0.1
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 8929.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 8557.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 8940.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9045.5
+(*) Average variance: 0.011096534382857771
+
+
+
+------ ParameterSet nr. 38 ------
+  Population Size: 500
+  Max Iteration : 10000
+  Probability of mutation: 0.15
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 8929.0
+      Run nr. 4: FitnessValue = 8759.0
+      Run nr. 5: FitnessValue = 8759.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 8929.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9025.8
+(*) Average variance: 0.013250245982289278
+
+
+
+------ ParameterSet nr. 39 ------
+  Population Size: 500
+  Max Iteration : 10000
+  Probability of mutation: 0.2
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 8544.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9086.699999999999
+(*) Average variance: 0.006592325352574613
+
+
+
+------ ParameterSet nr. 40 ------
+  Population Size: 500
+  Max Iteration : 10000
+  Probability of mutation: 0.3
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 8929.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9125.2
+(*) Average variance: 0.0023832950694216647
+
+
+
+------ ParameterSet nr. 41 ------
+  Population Size: 500
+  Max Iteration : 15000
+  Probability of mutation: 0.1
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 8940.0
+      Run nr. 5: FitnessValue = 8929.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9104.5
+(*) Average variance: 0.00464633213075325
+
+
+
+------ ParameterSet nr. 42 ------
+  Population Size: 500
+  Max Iteration : 15000
+  Probability of mutation: 0.15
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 8940.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9126.300000000001
+(*) Average variance: 0.0022630370613315855
+
+
+
+------ ParameterSet nr. 43 ------
+  Population Size: 500
+  Max Iteration : 15000
+  Probability of mutation: 0.2
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 8929.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9125.2
+(*) Average variance: 0.0023832950694216647
+
+
+
+------ ParameterSet nr. 44 ------
+  Population Size: 500
+  Max Iteration : 15000
+  Probability of mutation: 0.3
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 8929.0
+      Run nr. 5: FitnessValue = 8929.0
+      Run nr. 6: FitnessValue = 8929.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9081.6
+(*) Average variance: 0.007149885208264994
+
+
+
+------ ParameterSet nr. 45 ------
+  Population Size: 500
+  Max Iteration : 20000
+  Probability of mutation: 0.1
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 8940.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 8929.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9104.5
+(*) Average variance: 0.00464633213075325
+
+
+
+------ ParameterSet nr. 46 ------
+  Population Size: 500
+  Max Iteration : 20000
+  Probability of mutation: 0.15
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 8929.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9125.2
+(*) Average variance: 0.0023832950694216647
+
+
+
+------ ParameterSet nr. 47 ------
+  Population Size: 500
+  Max Iteration : 20000
+  Probability of mutation: 0.2
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 9147.0
+      Run nr. 3: FitnessValue = 9147.0
+      Run nr. 4: FitnessValue = 8929.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 8929.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9103.4
+(*) Average variance: 0.004766590138843329
+
+
+
+------ ParameterSet nr. 48 ------
+  Population Size: 500
+  Max Iteration : 20000
+  Probability of mutation: 0.3
+
+      Run nr. 1: FitnessValue = 9147.0
+      Run nr. 2: FitnessValue = 8929.0
+      Run nr. 3: FitnessValue = 8929.0
+      Run nr. 4: FitnessValue = 9147.0
+      Run nr. 5: FitnessValue = 9147.0
+      Run nr. 6: FitnessValue = 9147.0
+      Run nr. 7: FitnessValue = 9147.0
+      Run nr. 8: FitnessValue = 9147.0
+      Run nr. 9: FitnessValue = 9147.0
+      Run nr. 10: FitnessValue = 9147.0
+
+------ Conclusion ------
+(*) Average Fitness value: 9103.4
+(*) Average variance: 0.004766590138843329
+
+
