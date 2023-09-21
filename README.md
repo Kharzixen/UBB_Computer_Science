@@ -1,1 +1,1 @@
-Funcitonal Programming Classes
+## Babes-Bolyai University Computer Science classes
