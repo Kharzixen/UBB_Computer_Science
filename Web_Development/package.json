@@ -1,0 +1,39 @@
+{
+  "name": "lab-mmim2055",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ubb-webprog/labs2022/lab-mmim2055.git"
+  },
+  "author": "Mellau Márk-Máté",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ubb-webprog/labs2022/lab-mmim2055/issues"
+  },
+  "homepage": "https://gitlab.com/ubb-webprog/labs2022/lab-mmim2055#readme",
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "alert": "^5.0.12",
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "express-formidable": "^1.2.0",
+    "formidable": "^2.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "mv": "^2.1.1",
+    "mysql": "^2.18.1",
+    "serve-favicon": "^2.5.0"
+  }
+}

@@ -1,0 +1,16 @@
+<div id="usersearchform">
+<h3>Search for a user:</h3>
+  <form action="/search_user" id="usersearch" method="GET">
+      <label for="searchname">Search by name:</label>
+      <input type="text" name="searchname" id="searchname">
+      <br>
+      <label for="searchclass">Search by class:</label>
+      <select name="searchclass" id="searchclass">
+        <option value="-1">Any</option>
+        <option value="1">User</option>
+        <option value="2">Admin</option>
+      </select>
+      <br>
+      <input type="submit" value="Search">
+  </form>
+</div>

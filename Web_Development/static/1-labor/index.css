@@ -1,0 +1,216 @@
+
+/*Nehany CSS bejegyzessel kezdunk , ami a szemnek kevesbbe karossa teszi az oldalt*/
+/*Feladatok megoldasai lennebb , megszamozva*/
+
+.marketpage img {
+    width: 800px;
+    height: 400px;
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+}
+
+.indexpage img{
+    width: 800px;
+    height: 400px;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+
+.indexpage div {
+    text-align: center;
+}
+
+#navbar > p {
+    display:flex;
+    justify-content: space-between
+}
+
+nav > p > a {
+    color: black;
+    font-size: large;
+}
+
+
+
+/*1) hatter beallitasa az egesz weboldalra -> az osszes HTML fajl bodyjara*/
+
+body {
+    background-position: center top;
+    background-image: url("https://logowik.com/content/uploads/images/449_volkswagen.jpg");
+    background-repeat: repeat-y;
+}
+
+/*2) p es em szine es hatterszine ugyanaz legyen*/
+p {
+    color: blue;
+    background-color:beige;
+}
+em {
+    color: blue;
+    background-color: beige;
+}
+
+/*3) ket fajta alcim class szerint
+h2-elem talalhato model es brand osztallyat is , a kettonek kulombozo szine es stilusa van adva , pelda ra a market page*/
+
+.marketpage .model {
+    font-style: normal;
+    color: red;
+}
+
+.marketpage .brand {
+    font-style: italic;
+    color:blueviolet
+}
+
+/*4) altalanos stilusosztaly , majd ennek alkalmazasa h2 es h3-ra a news.html-ben*/
+
+.altalanosStilusosztaly {
+    font-size: large;
+    font-style: italic;
+    align-content: flex-start;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/*5) Adjuk meg (kontextussal megadott szelektort használva) egy közvetlenül nav elemben elhelyezkedő
+p elem stílusát (szövegszín, relatív betűméret). */
+
+/*csak a Shortcuts felirat nem link , csak az valtozik*/
+
+body.marketpage > nav > p.categories {
+    color: red;
+    font-size: large;
+}
+
+/*6) Definiáljunk két különböző hivatkozás (link) típust, melyeknek más és más a színe ha rámegyünk az
+egérrel, ha aktív, ha már meglátogattuk. */
+
+/*az index oldal navbarjaban a market linket es a news linket valtoztatjuk*/
+
+body.indexpage > nav > p > a.market:active {
+    color: blueviolet
+}
+
+body.indexpage > nav > p > a.market:hover {
+    color: hotpink
+}
+
+body.indexpage > nav > p > a.market:visited {
+    color: blue
+}
+
+body.indexpage > nav > p > a.news:active {
+    color: green
+}
+
+body.indexpage > nav > p > a.news:hover {
+    color: orange
+}
+
+body.indexpage > nav > p > a.news:visited {
+    color: red
+}
+
+/*7) Definiáljunk egy olyan div stílust, mely be van keretezve szaggatott vonallal. A szöveg legyen balra
+tolódva a kereten belül (a jobboldali behúzás–padding–legyen nagyobb).
+
+A news oldal divjeit fogom "bekeretezni" */
+
+body.newspage > main > div.news {
+    padding-right: 30px;
+    border: 5px dashed red
+}
+
+/*8) Definiáljuk a táblázat esetén két különböző cella-stílust (a két stílus pepita -lásd sakktábla- minta
+szerint váltakozzon). Ne használjunk osztályokat, a HTML-be ne kelljen kézzel jelölőket írni a
+cellákhoz.
+*/
+
+table {
+    background-color: bisque;
+    border: 3px solid black ;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+tr:nth-child(odd) td:nth-child(even){
+    background-color: blue;
+}
+
+tr:nth-child(odd) td:nth-child(odd){
+    background-color: green;
+}
+
+tr:nth-child(even) td:nth-child(odd){
+    background-color: blue;
+}
+
+tr:nth-child(even) td:nth-child(even){
+    background-color: green;
+}
+
+
+/*9) Rajzoljunk különböző színű, és egyre kisebb méretű téglalapokat egymásba ágyazva. A legbelső
+téglalapban szöveg is szerepeljen. (Tipp: div elem + háttérszín)
+*/
+
+body.rectanglepage div {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+body.rectanglepage div.r4 {
+    background-color: rgb(43, 255, 0);
+    width: 400px;
+    height: 200px;
+}
+
+body.rectanglepage div.r3 {
+    background-color: rgb(208, 255, 0);
+    width: 600px;
+    height: 300px;
+}
+
+
+body.rectanglepage div.r2 {
+    background-color: rgb(245, 3, 3);
+    width: 800px;
+    height: 400px;
+}
+
+
+body.rectanglepage div.r1 {
+    background-color: blueviolet;
+    width: 1000px;
+    height: 500px;
+}
+
+
+/*10) Oldjuk meg CSS3 átmenet (transition) segítségével, hogy amennyiben az egér a div fölött található,
+ennek szélessége 4 másodperc alatt csökkenjen a felére. Ne egyből változzon ez a tulajdonság, hanem
+graduálisan 4 másodperc alatt.  */
+
+/*a news lap news classal ellatott divjeit fogjuk transitionnel valtoztatni*/
+
+body.newspage > main > div.news {
+    margin: auto;
+    width: 95%;
+    transition: width 4s;
+    -webkit-transition:  width 4s;
+    -ms-transition:  width 4s; 
+    -o-transition:  width 4s; 
+    -moz-transition:  width 4s;
+} 
+
+
+body.newspage > main > div.news:hover {
+    width: 50%;
+} 
+
+
+
+

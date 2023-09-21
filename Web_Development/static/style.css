@@ -1,0 +1,100 @@
+.ids {
+  display: none;
+}
+
+.idfield {
+  display: none;
+}
+
+body {
+  background-color: beige;
+}
+
+hr {
+  border: 1px solid black;
+}
+
+.moviebox, .userbox {
+  border: 2px solid black;
+}
+
+.moviebox *, .userbox *, .notloggedUser > p {
+  position: relative;
+  left: 10px;
+}
+
+.reviewbox * {
+  position: relative;
+  left: 10px;
+}
+
+.reviewbox {
+  margin-top: 25px;
+  border: 2px solid black;
+}
+
+.menubar *, .notloggedUser > a, .panel > a{
+  font-size: larger;
+  color:  black;
+  border: 3px solid rgb(0, 0, 0);
+  background-color: rgb(238, 238, 238);
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.moviebox > p{
+  margin-right: 15px;
+}
+
+b {
+  margin-right: 15px;
+}
+
+.det_revdescr {
+  left: 30px;
+}
+
+.button {
+  margin-top: 10px;
+  width: 80px;
+  height: 50px;
+}
+
+form * {
+  margin-top: 5px;
+}
+
+select,textarea {
+  margin-top: 5px;
+}
+
+/*Error msg display*/
+#titleerror,#genreserror {
+  color: red;
+  display: none;
+}
+
+#ok {
+  color: blue;
+}
+
+#nok {
+  color: red;
+}
+
+.loginbutton {
+  font-size: larger;
+  color:  black;
+  border: 3px solid rgb(0, 0, 0);
+  background-color: rgb(238, 238, 238);
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.authfeedback, .statusfield {
+  color:  red;
+}
+
+.actionpanel > * {
+  display: inline-block;
+}

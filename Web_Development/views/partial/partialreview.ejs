@@ -1,0 +1,36 @@
+    <form action="" id="reviewform" method="POST" onsubmit=submitDetailsForm(event) >
+      <input class="idfield" name="selectedmovie" type="text" value="<%= movieID %>" readonly>
+    </form>
+
+    <% if(condition == 1) { %>
+      <div id="nok">
+        <p>An error occured, please try again.</p>
+      </div>
+    <% } else if (condition ==2) { %>
+      <div id="ok">
+        <p>You review has been sent succesfully.</p>
+      </div>
+    <% } else if (condition ==0) { %>
+      <p>Give us a review about this movie: </p>
+    <% } %>
+
+    <br>
+    <label for="selecteduser">Your Username: <%= user %></label>
+    </select>
+    <br>
+    <label for="rating">Your Rating:</label>
+    <select name="rating" id="rating" form="reviewform" required>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+    </select>
+    <br>
+    <br>
+    <label for="rev">What do you think about this movie? </label>
+    <br>
+    <textarea rows="4" cols="50" name="rev" form="reviewform" ></textarea>
+    <br>
+    <input class="button" type="submit" form="reviewform" value="Submit">
+    <hr>

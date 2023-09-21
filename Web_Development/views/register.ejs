@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include("./partial/head.ejs" , { title: "Register" }) %>
+  <body>
+    <script src="users.js"></script>
+    <%- include("./partial/menubar.ejs", { admin }) %>
+    <div>
+      <p class="authfeedback"> <%= msg %> </p>
+      <form action="/registeruser" method="post" id="loginform">
+        <label for="username">Username: </label>
+        <input name="username" type="text">
+        <br>
+        <label for="passwd">Password: </label>
+        <input name="passwd" type="password" >
+        <br>
+        <label for="confpasswd">Confirm Password:   </label>
+        <input name="confpasswd" type="password">
+        <br>
+        <input type="submit" value="Register" class="button">
+      </form>
+    </div>
+  </body>
+</html>

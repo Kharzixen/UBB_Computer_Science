@@ -1,0 +1,17 @@
+<div id="commentsearchform">
+  <h3>Search for a user:</h3>
+    <form action="/search_comment" id="commentsearch" method="GET">
+        <label for="searchtitle">Search by title:</label>
+        <input type="text" name="searchtitle" id="searchtitle">
+        <br>
+        <label for="searchacceptance">Search by acceptance:</label>
+        <select name="searchacceptance" id="searchacceptance">
+          <option value="">Any</option>
+          <option value="1">Pending</option>
+          <option value="2">Approved</option>
+          <option value="-1">Refused</option>
+        </select>
+        <br>
+        <input type="submit" value="Search">
+    </form>
+  </div>

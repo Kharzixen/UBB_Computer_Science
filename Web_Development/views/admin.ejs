@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include("./partial/head.ejs" , { title: "My Profile" }) %>
+  <body>
+    <script src="film.js"></script>
+    <%- include("./partial/menubar.ejs", { admin }) %>
+    <h2>Admin Control Panel</h2>
+    <div class="panel">
+      <a href="/adminMovies">Movies</a>
+      <a href="/adminComments">Reviews</a>
+    </div>
+    <br>
+    <hr>
+    <% if(moviesPanel) { %>
+      <div class="Movies">
+        <h2>Movies: </h2>
+        <%- include('./partial/newsearchform')%>
+        <br>
+        <hr>
+        <br>
+        <% movies.forEach((movie) => { %>
+          <div class="moviebox" >
+            <p><b>Title: </b> <%= movie.Title %></p>
+            <p class="genres"><b>Genres: </b> <%= movie.Genres %></p>
+            <p><b>Release Date: </b> <%= movie.ReleaseDate %></p>
+            <p><b>Description: </b> <%= movie.Description %></p>
+            <div class="actionpanel">
+              <form action="/get_details" method="get">
+                <input class="ids" type="text" name="id" value='<%= movie.MovieID %>' readonly>
+                <input class="button" type="submit" name="details" value="Details" />
+              </form>  
+              <form action="/delete_movie" method="POST">
+                  <input class="ids" type="text" name="id" value='<%= movie.MovieID %>' readonly>
+                  <input class="button" type="submit" name="delete" value="Delete" >
+              </form>
+            </div>  
+            <br>  
+          </div>
+          <br>
+          <% }); %>
+      </div>
+    <% } %>
+
+    <% if(commentsPanel) { %>
+      <h2>Comments:</h2>
+      <%- include('./partial/commentsearch')%>
+      <br>
+      <hr>
+      <br>
+      <% reviews.forEach((review) => { %>
+        <div class="reviewbox">
+          <% if (review.Status === 1) { %>
+            <p class="statusfield"><b>Status: </b> Pending...</p>
+          <% } else if(review.Status === 2) { %>
+            <p class="statusfield"><b>Status: </b> Approved by: <%= review.Admin %></p>
+          <% } else { %>
+            <p class="statusfield"><b>Status: </b> Refused by: <%= review.Admin %></p>
+          <% } %>
+          <p class="idfield"><%= review.ReviewID %></p>
+          <p><b>Title: </b> <%= review.Title %></p>
+          <p class="userfield"><b>User: </b><%= review.User %></p>
+          <p><b>Rating: </b><%= review.Rating %></p>
+          <p><b>Review: </b> </p>
+          <p class="det_revdescr"><%= review.Review %></p>
+          <button onclick=deleteComment(this.parentNode)>Delete Comment</button>
+          <% if (review.Status === 1) { %>
+            <button class="approveButton" onclick=approveComment(this.parentNode)>Approve Comment</button>
+            <button class="refuseButton" onclick=refuseComment(this.parentNode)>Refuse Comment</button>
+          <% } else if (review.Status === 2) { %>
+            <button class="refuseButton" onclick=refuseComment(this.parentNode)>Refuse Comment</button>
+          <% } else { %>
+            <button class="approveButton" onclick=approveComment(this.parentNode)>Approve Comment</button>
+          <% } %>
+          <br>
+          <br>
+        </div>
+      <% }); %>
+    <% } %>
+  </body>
+</html>

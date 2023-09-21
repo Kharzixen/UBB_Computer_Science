@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include("./partial/head.ejs" , { title: "Movies" }) %>
+  <body>
+    <script src="film.js">
+    </script>
+    <%- include("./partial/menubar.ejs") %>
+    <%- include("./partial/loginHeader.ejs", {loggedin, user}) %>
+    <%- include("./partial/searchform.ejs") %>
+    <br>
+    <hr>
+    <h1>Movies</h1>
+      <% movies.forEach((movie) => { %>
+        <div class="moviebox" onclick='showMoreData(`<%=movie.MovieID %>`, this)'>
+          <h2><%= movie.Title %></h2>
+          <p class="genres"><b>Genres: </b> *click here to see*</p>
+          <p class="description"><b>Description: </b>*click here to see*</p> 
+          <img src=<%= `uploadDir/${movie.Cover}` %> alt="" width="400" height="600">
+          <div class="actionpanel">
+            <form action="/get_details" method="get">
+              <input class="ids" type="text" name="id" value='<%= movie.MovieID %>' readonly>
+              <input class="button" type="submit" name="details" value="Details" />
+            </form>  
+            <% if (admin) { %>
+              <form action="/delete_movie" method="POST">
+                <input class="ids" type="text" name="id" value='<%= movie.MovieID %>' readonly>
+                <input class="button" type="submit" name="delete" value="Delete" >
+              </form>
+            <% } %>
+          </div>
+          <br>    
+        </div>
+        <br>
+        <% }); %>
+  </body>
+</html>

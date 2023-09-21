@@ -1,0 +1,17 @@
+<script src="users.js"></script>
+<div id="loginbar">
+  <% if(loggedin === true) { %>
+    <div id="loggedin">
+      <p><b>Username:</b><%= user %></p>
+      <form action="/logout" method="post">
+        <input type="submit" value="Logout">
+      </form>
+     </div>
+  <% } else {%>
+    <div id="notloggedin">
+      <p>You can log in here:</p>
+      <a class="loginbutton" href="/login">Login</a>
+    </div>
+  <% } %>
+</div>
+<hr>

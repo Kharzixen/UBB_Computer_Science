@@ -1,0 +1,13 @@
+<div id="menubar">
+  <div class="menubar">
+    <a href="/index">Home</a>
+    <a href="/myprofile">Profile</a>
+    <a href="/register">Register</a>
+    <% if (admin) { %>
+      <a href="/users">Users</a>
+      <a href="upload.html">Upload</a>
+      <a href="/admin">Admin</a>
+    <% } %>
+  </div>
+  <hr>
+</div>

@@ -1,0 +1,83 @@
+<!--Mellau Mark-Mate , 523/1-->
+<!--mmim2055-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Volkswagen AG</title>
+</head>
+
+    <body class="indexpage">
+        <nav id="navbar">
+            <p class="main">
+                <!--a market es news linkek kaptak egy egyedi osztalyt , ezek a linkek valtoztatjak a szinuket ahogy 
+                a 6-os feladat keri
+                -->
+                <a class="market" href="market.html"><b><i>Volkswagen Marketplace</i></b></a>
+                <a class="news" href="news.html"><b><i>News</i></b></a>
+                <a class="market" href="rectangle.html"><b>Project: Rectangle</b></a>
+                <a class="news" href="https://www.volkswagenag.com/"><b>Original Volkswagen Website</b></a>
+            </p>
+        </nav>
+
+        <main>
+            <br>
+            <div>
+                <!--ezek a kepek jelennek meg nagyobban ha rakattintunk , scale(1.25) , functionnel megoldva a dokumentum aljan-->
+                <img src="https://media.promotor.ro/unsafe/1200x675/smart/filters:contrast(5):format(webp):quality(80)/http://www.promotor.ro/wp-content/uploads/2008/10/3287060/1-vw-scirocco-by-oettinger.jpg" alt="scirocco" onclick="enlargeIMG(this)" >
+                <img src="https://ev-database.org/img/auto/Audi_e-tron_GT_RS/Audi_e-tron_GT_RS-01@2x.jpg" alt="etrongt" onclick="enlargeIMG(this)" >
+                <img src="https://www.stiridirecte.ro/wp-content/uploads/2021/09/porsche-panamera-cost-de-intretinere.jpg" alt="panamera" onclick="enlargeIMG(this)" >
+            </div>
+            
+            <br>
+
+            <div>
+                <h2>Business Hours:</h2>
+                <!--8) feladat: Ez a tablazat a nyitvatartast jelentene , ez lesz valtakozo szinu (pepita)-->
+                <table>
+                    <tr>
+                        <th>Days</th>
+                        <th>Hours</th>
+                    </tr>
+                    <tr>
+                        <td>Monday-Friday</td>
+                        <td>08:00 - 18:00</td>
+                    </tr>
+                    <tr>
+                        <td>Saturday</td>
+                        <td>09:00 - 14:00</td>
+                    </tr>
+                    <tr>
+                        <td>Sunday</td>
+                        <td>Closed</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div>
+                <a href="#navbar"><b>TOP</b></a>
+            </div>
+        
+        </main>
+
+
+        <footer>
+            <p>ID: mmim2055</p>
+            <p>Name / Group: Mellau Mark-Mate / 523</p>
+        </footer>
+
+
+        <script>
+            function enlargeIMG(img) {
+                img.style.transform="scale(1.25)"
+            }
+        </script>
+
+
+    </body>
+</html>

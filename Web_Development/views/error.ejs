@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include("./partial/head.ejs" , { title: "Error" }) %>
+  <body>
+    <%- include("./partial/menubar.ejs", { admin }) %>
+    <div>
+      <h1>We have encountered an error</h1>
+      <p>Error message:</p>
+      <p id="errormsg"><%= message %></p>
+      <br>
+      <a href="/index">Home</a>
+    </div>
+  </body>
+</html>

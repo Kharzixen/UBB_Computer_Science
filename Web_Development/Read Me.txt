@@ -1,0 +1,16 @@
+A program tesztelésére a következő előkészületeket kell elvégezni:
+
+1) az sqlQueries-ben levő scriptet lefuttatni , ez létrehozza a használt adatbázist, és feltölti a users táblát (nem kellett még login)
+
+2) package-ek 
+
+3) futtatás
+
+Az főoldal nem fog filmet megjeleníteni , ehhez manuálisan kell adatokat bevinnünk egyszer
+Ahhoz hogy ne kelljen időt eltölteni előkészítettem a static/covers mappába két képet amit fel lehet tölteni és használni, én is ezeket 
+használtam . 
+
+A Menübarban van egy register opció, ott tudunk új felhasználót létrehozni, erröl kapunk egy feedbacket. Ha sikeres a regisztráció,
+be tudunk jelentkezni.
+A login felület elérhetö a Föoldalról illetve egy Detail ablakból is a review hagyásnál
+A saját reviewjainkat tudjuk törölni , másokét már nem.

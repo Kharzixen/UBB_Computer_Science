@@ -1,0 +1,61 @@
+body {
+    background-color:dimgray;
+    font-size: 105% ; 
+}
+
+
+#submit {
+    display: none;
+}
+
+#submit {
+    align-self: center;
+    margin-left: 48%;
+}
+
+#form {
+    align-self: center;
+    align-content: center;
+    text-align: center;
+}
+
+#udinput > * {
+    margin-bottom: 20px;
+}
+
+#game {
+    display: none ;
+    align-items: center;
+    align-content: center;
+    text-align: center; 
+}
+
+#canv {
+    margin-top: 100px;
+    background-color: thistle;
+    height: 240px;
+    width: 42% ; 
+}
+
+#won {
+    display: none ;
+    text-align: center;
+    color: rgb(138, 2, 29);
+    font-weight: bold; 
+    font-size: 130%; 
+}
+
+#lost {
+    display: none ;
+    text-align: center;
+    color: rgb(138, 2, 29);
+    font-weight: bold; 
+    font-size: 130%; 
+}
+
+#Erfname , #Erlname , #Ermail , #Erurl {
+    display: none ; 
+    color: red;
+
+}
+

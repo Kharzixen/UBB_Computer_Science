@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include("./partial/head.ejs" , { title: "My Profile" }) %>
+  <body>
+    <script src="film.js"></script>
+    <%- include("./partial/menubar.ejs", { admin }) %>
+    <% if (! loggedin) { %>
+      <div class="notloggedUser">
+        <h2>We can't identify you !</h2>
+        <p>Please login or register a user:</p>
+        <a href="/login">Login</a>
+        <a href="/register">Register</a>
+      </div>
+    <% } else { %>
+      <div class="loggedUser">
+        <h2>Welcome <%= username %>! :)</h2>
+        <div id="reviews">
+          <h4>Your reviews:</h3>
+          <% reviews.forEach((review) => { %>
+              <div class="reviewbox">
+                <% if (review.Status === 1) { %>
+                  <p class="statusfield"><b>Status: </b> Pending...</p>
+                <% } else if(review.Status === 2) { %>
+                  <p class="statusfield"><b>Status: </b> Approved by: <%= review.Admin %></p>
+                <% } else { %>
+                  <p class="statusfield"><b>Status: </b> Refused by: <%= review.Admin %></p>
+                <% } %>
+                <p><b>Title: </b> <%= review.Title %></p>
+                <p class="idfield"><%= review.ReviewID %></p>
+                <p class="userfield"><b>User: </b><%= review.User %></p>
+                <p><b>Rating: </b><%= review.Rating %></p>
+                <p><b>Review: </b> </p>
+                <p class="det_revdescr"><%= review.Review %></p>
+                <button onclick=deleteComment(this.parentNode)>Delete Comment</button>
+              </div>
+            <% });%>
+        </div> 
+      </div>
+    <% } %>
+  </body>
+</html>

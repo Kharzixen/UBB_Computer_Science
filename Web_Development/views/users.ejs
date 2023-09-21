@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include("./partial/head.ejs" , { title: 'Users' }) %>
+  <body>
+    <%- include("./partial/menubar.ejs", { admin }) %>
+    <h1>All users on this site:</h1>
+    <%- include("./partial/usersearch") %>
+    <hr>
+    <br>
+    <% users.forEach((user) => { %>
+      <div class="userbox">
+        <p><b>Username: </b> <%= user.Username %></p>
+        <% if(user.Class === 2) { %>
+          <p><b>Class:</b> Admin</p>
+        <% } else { %>
+          <p><b>Class:</b> User</p>
+        <% } %>
+        <% if (admin) { %>
+          <% if (user.Class === 1) {%>
+          <form action="/grant_admin" method="POST">
+            <input class="ids" type="text" name="id" value='<%= user.UserID %>' readonly>
+            <input type="submit" name="delete" value="Grant Admin" >
+          </form>
+          <% } else { %>
+            <form action="/deny_admin" method="POST">
+              <input class="ids" type="text" name="id" value='<%= user.UserID %>' readonly>
+              <input type="submit" name="delete" value="Deny Admin" >
+            </form>
+          <% } %>
+        <% } %>
+      </div>
+      <br>
+      <% }); %>
