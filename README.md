@@ -1,1 +1,1 @@
-# UBB_Computer_Science
+Funcitonal Programming Classes
